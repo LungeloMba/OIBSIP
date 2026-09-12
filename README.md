@@ -1,37 +1,12 @@
-# Oasis Infobyte Data Science Internship
+# OIBSIP – Data Science
 
-## Machine Learning Projects
+This repository contains my completed Data Science internship tasks for Oasis Infobyte.
 
-This repository contains my machine learning projects completed during my Oasis Infobyte Data Science internship.
+## Completed Tasks
 
-## Tasks
+1. Iris Flower Classification
+2. Car Price Prediction
+3. Sales Prediction
 
-### Task 1 - Iris Flower Classification
-A classification project using machine learning models to predict the species of iris flowers.
+Each task has its own folder containing the Jupyter Notebook and README file.
 
-### Task 3 - Car Price Prediction
-A regression project that predicts car selling prices using vehicle features.
-
-### Task 5 - Sales Prediction
-A regression project that predicts sales based on advertising expenditure.
-
-## Tools Used
-
-- Python
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
-- Scikit-learn
-- Jupyter Notebook
-
-## Models Used
-
-- Logistic Regression
-- Random Forest
-- Linear Regression
-- Random Forest Regression
-
-## Author
-
-Lungelo Ndumiso Ntombela
